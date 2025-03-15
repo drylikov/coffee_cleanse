@@ -1,0 +1,9 @@
+{
+  "name": "coffee_cleanse",
+  "version": "1.2.5",
+  "author": "",
+  "devDependencies": { "coffee-script":"" },
+  "main": "cleanse.js",
+  "scripts": { "test": "node test.js" },
+  "license":"bsd"
+}
